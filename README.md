@@ -1,10 +1,10 @@
 # login-page-using-Python-and-MySQL
 It's a GUI project using python tkinter and MySQL database.
 
-
-![Screenshot](assets/screenshot_1.png)
+SignUp Page View
+![Screenshot](assets/Screenshot_1.png)
 Login Page View
-![Screenshot](assets/screenshot_2.png)
+![Screenshot](assets/Screenshot_2.png)
 Forgot Password View
-![Screenshot](assets/screenshot_3.png)
+![Screenshot](assets/Screenshot_3.png)
 

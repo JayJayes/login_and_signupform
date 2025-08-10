@@ -21,3 +21,6 @@ CREATE TABLE student_register(
    password VARCHAR(50) NOT NULL,
    PRIMARY KEY ( email )
 );
+![Screenshot](assets/screenshot1.png)
+![Screenshot](assets/screenshot2.png)
+
